@@ -1,0 +1,15 @@
+# virtual environment
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# MovieLens dataset (license: do not redistribute; download it yourself)
+ml-latest-small/
+ml-*/
+
+# editor / OS
+.vscode/
+.DS_Store
